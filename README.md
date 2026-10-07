@@ -1,4 +1,4 @@
-# AshokLoganPortal
+# ashoklogan.github.io
 
 Personal portfolio for [Ashok Logan](https://github.com/AshokLogan), built as a lightweight static site for GitHub Pages.
 
@@ -15,7 +15,7 @@ Then open <http://localhost:8000>.
 1. Open the repository's **Settings → Pages**.
 2. Under **Build and deployment**, select **Deploy from a branch**.
 3. Select the `main` branch and `/(root)` folder.
-4. Save. The site will be published at <https://ashoklogan.github.io/AshokLoganPortal/>.
+4. Save. The site will be published at <https://ashoklogan.github.io/>.
 
 ## Customize
 
